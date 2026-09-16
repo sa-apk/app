@@ -1,0 +1,71 @@
+{
+  "header": {
+    "main_title_en": "WELCOME TO SATUBE",
+    "main_title_bn": "SATUBE-এ স্বাগতম",
+    "sub_title_en": "IMPORTANT INFORMATION",
+    "sub_title_bn": "গুরুত্বপূর্ণ নির্দেশনা"
+  },
+  "notice_cards": {
+    "card1_title_en": "Great Features of the App",
+    "card1_title_bn": "অ্যাপসের দারুণ সুবিধাসমূহ",
+    "card1_dialog_title_en": "App Features",
+    "card1_dialog_title_bn": "অ্যাপের দারুণ সুবিধাসমূহ",
+    "card2_title_en": "Wi-Fi Download Issue & Solution",
+    "card2_title_bn": "ওয়াইফাই ডাউনলোড সমস্যা ও সমাধান",
+    "card2_dialog_title_en": "Wi-Fi Solution",
+    "card2_dialog_title_bn": "ওয়াইফাই সমস্যা ও সমাধান",
+    "card3_title_en": "App Policy & Contact Guidelines",
+    "card3_title_bn": "অ্যাপ পলিসি ও যোগাযোগ",
+    "card3_dialog_title_en": "App Policy & Rules",
+    "card3_dialog_title_bn": "অ্যাপ পলিসি ও নিয়মাবলী"
+  },
+  "contacts": {
+    "whatsapp_phone": "+880 16133 99995",
+    "whatsapp_sub_en": "WhatsApp Chat & Call",
+    "whatsapp_sub_bn": "হোয়াটসঅ্যাপে চ্যাট বা কল করুন",
+    "whatsapp_url": "https://wa.me/8801613399995",
+    "telegram_user": "@YASIN999958",
+    "telegram_sub_en": "Telegram Profile",
+    "telegram_sub_bn": "টেলিগ্রাম প্রোফাইল",
+    "telegram_url": "https://t.me/YASIN999958",
+    "facebook_name": "YASIN ARAFAT",
+    "facebook_sub_en": "Facebook Profile",
+    "facebook_sub_bn": "ফেসবুক প্রোফাইল",
+    "facebook_url": "https://www.facebook.com/profile.php?id=100094241261731"
+  },
+  "footer": {
+    "switch_line1_en": "If you don't want to see this screen,",
+    "switch_line1_bn": "যদি পরবর্তীতে এই পর্দা না দেখতে চান,",
+    "switch_line2_en": "turn on the switch!",
+    "switch_line2_bn": "তবে সুইচটি চালু করুন!",
+    "close_button_en": "✕ Close",
+    "close_button_bn": "✕ বন্ধ করুন",
+    "telegram_button_en": "Join Telegram",
+    "telegram_button_bn": "টেলিগ্রামে যুক্ত হন",
+    "telegram_button_url": "https://t.me/sa_apk"
+  },
+  "app_update": {
+    "enabled": false,
+    "latest_version_code": 14,
+    "latest_version_name": "v2.5.0",
+    "force_update": false,
+    "title": "নতুন আপডেট এসেছে!",
+    "changelog": "• ফাস্ট ডাউনলোড অপটিমাইজেশন\n• নতুন SATUBE প্রিমিয়াম ইন্টারফেস\n• বাগ ফিক্স",
+    "download_url": "https://t.me/sa_apk"
+  },
+  "notice": {
+    "enabled": false,
+    "notice_id": 1,
+    "can_dismiss": true,
+    "title": "জরুরি বিজ্ঞপ্তি",
+    "button_text": "বিস্তারিত জানতে ক্লিক করুন ➜",
+    "action_url": "https://t.me/sa_apk",
+    "notices": [
+      {
+        "id": 1,
+        "title": "সার্ভার রক্ষণাবেক্ষণ",
+        "message": "আমাদের ব্যাকএন্ড সার্ভার আপগ্রেড করা হচ্ছে। কোনো সমস্যা হলে টেলিগ্রামে যোগাযোগ করুন।"
+      }
+    ]
+  }
+}
