@@ -54,7 +54,7 @@
     "download_url": "https://t.me/sa_apk"
   },
   "notice": {
-    "enabled": false,
+    "enabled": true,
     "notice_id": 1,
     "can_dismiss": true,
     "title": "জরুরি বিজ্ঞপ্তি",
