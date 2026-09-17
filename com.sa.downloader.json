@@ -1,6 +1,6 @@
 {
   "header": {
-    "main_title_en": "WELCOME TO SATUBE 2026 17",
+    "main_title_en": "WELCOME TO SA DOWNLOADER",
     "main_title_bn": "SATUBE-এ স্বাগতম",
     "sub_title_en": "IMPORTANT INFORMATION",
     "sub_title_bn": "গুরুত্বপূর্ণ নির্দেশনা"
@@ -54,7 +54,7 @@
     "download_url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=youtube-vanced"
   },
   "notice": {
-    "enabled": true,
+    "enabled": false,
     "notice_id": 1,
     "can_dismiss": true,
     "title": "জরুরি বিজ্ঞপ্তি",
