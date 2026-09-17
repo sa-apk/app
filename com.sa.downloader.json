@@ -48,10 +48,10 @@
     "enabled": true,
     "latest_version_code": 26091153,
     "latest_version_name": "v2.27.0",
-    "force_update": false,
+    "force_update": true,
     "title": "নতুন আপডেট এসেছে!",
     "changelog": "• ফাস্ট ডাউনলোড অপটিমাইজেশন\n• নতুন SATUBE প্রিমিয়াম ইন্টারফেস\n• বাগ ফিক্স",
-    "download_url": "https://t.me/sa_26091153.apk"
+    "download_url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=youtube-vanced"
   },
   "notice": {
     "enabled": true,
