@@ -45,9 +45,9 @@
     "telegram_button_url": "https://t.me/sa_apk"
   },
   "app_update": {
-    "enabled": true,
-    "latest_version_code": 26091153,
-    "latest_version_name": "v2.27.0",
+    "enabled": false,
+    "latest_version_code": 26091152,
+    "latest_version_name": "v2.26.9",
     "force_update": true,
     "title": "নতুন আপডেট এসেছে!",
     "changelog": "• ফাস্ট ডাউনলোড অপটিমাইজেশন\n• নতুন SATUBE প্রিমিয়াম ইন্টারফেস\n• বাগ ফিক্স",
