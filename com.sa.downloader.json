@@ -56,7 +56,7 @@
   "notice": {
     "enabled": true,
     "notice_id": 1,
-    "can_dismiss": false,
+    "can_dismiss": true,
     "title": "জরুরি বিজ্ঞপ্তি",
     "button_text": "বিস্তারিত জানতে ক্লিক করুন ➜",
     "action_url": "https://t.me/sa_apk",
